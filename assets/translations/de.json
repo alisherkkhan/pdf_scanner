@@ -1,0 +1,37 @@
+{
+    "onboarding": {
+      "title1": "PDF Scanner",
+      "desc1": "Dokumente einfach scannen\noder in PDF umwandeln",
+      "title2": "Bewerte uns",
+      "desc2": "Hilf uns mit deinem Feedback,\nbesser zu werden",
+      "button": "Weiter"
+    },
+    "documents": {
+      "title": "Dokumente",
+      "search": "Suchen...",
+      "empty": "Keine Dokumente gefunden",
+      "empty_desc": "Tippe unten, um zu scannen\noder in PDF umzuwandeln"
+    },
+    "actions": {
+      "rename": "Umbenennen",
+      "print": "Drucken",
+      "share": "Teilen",
+      "delete": "Löschen",
+      "cancel": "Abbrechen"
+    },
+    "rename": {
+      "title": "Umbenennen",
+      "placeholder": "Dokument",
+      "save": "Speichern"
+    },
+    "viewer": {
+      "edit": "Bearbeiten",
+      "add": "Hinzufügen",
+      "share": "Teilen",
+      "page": "Seite"
+    },
+    "common": {
+      "please_wait": "Einen Moment bitte..."
+    }
+  }
+  

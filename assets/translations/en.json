@@ -1,0 +1,37 @@
+{
+    "onboarding": {
+      "title1": "PDF Scanner",
+      "desc1": "Easily scan documents\nor convert them to PDF",
+      "title2": "Rate Us",
+      "desc2": "Help us improve with\nyour feedback",
+      "button": "Continue"
+    },
+    "documents": {
+      "title": "Documents",
+      "search": "Search...",
+      "empty": "No documents found",
+      "empty_desc": "Tap the button below to scan\nor convert to PDF"
+    },
+    "actions": {
+      "rename": "Rename",
+      "print": "Print",
+      "share": "Share",
+      "delete": "Delete",
+      "cancel": "Cancel"
+    },
+    "rename": {
+      "title": "Rename",
+      "placeholder": "Document",
+      "save": "Save"
+    },
+    "viewer": {
+      "edit": "Edit",
+      "add": "Add",
+      "share": "Share",
+      "page": "Page"
+    },
+    "common": {
+      "please_wait": "One moment, please wait..."
+    }
+  }
+  

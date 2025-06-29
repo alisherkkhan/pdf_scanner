@@ -1,0 +1,37 @@
+{
+    "onboarding": {
+      "title1": "Scanner PDF",
+      "desc1": "Scansiona facilmente documenti\no convertili in PDF",
+      "title2": "Valutaci",
+      "desc2": "Aiutaci a migliorare con\nil tuo feedback",
+      "button": "Continua"
+    },
+    "documents": {
+      "title": "Documenti",
+      "search": "Cerca...",
+      "empty": "Nessun documento trovato",
+      "empty_desc": "Tocca il pulsante qui sotto per scansionare\no convertire in PDF"
+    },
+    "actions": {
+      "rename": "Rinomina",
+      "print": "Stampa",
+      "share": "Condividi",
+      "delete": "Elimina",
+      "cancel": "Annulla"
+    },
+    "rename": {
+      "title": "Rinomina",
+      "placeholder": "Documento",
+      "save": "Salva"
+    },
+    "viewer": {
+      "edit": "Modifica",
+      "add": "Aggiungi",
+      "share": "Condividi",
+      "page": "Pagina"
+    },
+    "common": {
+      "please_wait": "Un momento, attendi..."
+    }
+  }
+  
